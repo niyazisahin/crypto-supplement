@@ -1,0 +1,14 @@
+{
+  "name": "crypto_supplementer",
+  "version": "1.0.0",
+  "description": "Gelişmiş Kripto Analiz Platformu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "we",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^13.1.4"
+  }
+}
